@@ -1,0 +1,7 @@
+streamlit>=1.50
+groq
+tavily-python
+ddgs
+requests
+beautifulsoup4
+pypdf
